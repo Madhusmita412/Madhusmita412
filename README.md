@@ -59,9 +59,9 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/madhusmita-choudhary/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
