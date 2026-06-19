@@ -8,7 +8,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 💻 Working on **Industry-oriented Python Projects**
 
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **madhusmitachoudhary759@gmail.com**
 
 - ⚡ Fun fact: I love solving coding problems and building projects.
 
